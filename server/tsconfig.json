@@ -1,0 +1,15 @@
+{
+  "extends": "../.nuxt/tsconfig.server.json",
+  "compilerOptions": {
+    "allowJs": true,
+    // "strict": true,
+    "types": [
+      "@nuxt/types",
+      "@types/node"
+    ]
+  },
+  "exclude": [
+    "node_modules",
+    "target"
+  ]
+}
