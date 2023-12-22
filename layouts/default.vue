@@ -11,6 +11,10 @@
 html {
 	background-color: #f8f4f0;
 }
+.dark {
+    background-color: #000408;
+    color: #f8f4f0;
+}
 
 .title, .subtitle {
 	pointer-events: none;
