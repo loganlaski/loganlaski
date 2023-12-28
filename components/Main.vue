@@ -7,7 +7,11 @@
                 </h1>
 
                 <h1>
-                    Creative web developer + designer based in Madison, WI.
+                    Creative technologist based in Madison, WI.
+                </h1>
+
+                <h1>
+                    Focused on building modern digital products.
                 </h1>
 
                 <h1 class="mt-4">
@@ -58,7 +62,6 @@ const projectLinks = [
         href: 'https://freedays.studio',
     },
 ]
-
 const contactLinks = [
     {
         id: 0,
@@ -67,16 +70,21 @@ const contactLinks = [
     },
     {
         id: 1,
+        item: 'GitHub',
+        href: 'https://github.com/loganlaski',
+    },
+    {
+        id: 2,
         item: 'Instagram',
         href: 'https://instagram.com/loganlaski',
     },
     {
-        id: 2,
+        id: 3,
         item: 'Threads',
         href: 'https://www.threads.net/@loganlaski',
     },
     {
-        id: 3,
+        id: 4,
         item: 'Read.cv',
         href: 'https://read.cv/lrl.online',
     },
