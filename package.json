@@ -1,5 +1,6 @@
 {
-  "name": "nuxt-app",
+  "name": "loganlaski",
+  "author": "Logan Laski",
   "private": true,
   "scripts": {
     "build": "nuxt build",
