@@ -34,10 +34,7 @@ export default defineNuxtConfig({
                 families: {
                     'Inter': {
                         wght: [300, 400, 500, 600, 700, 800],
-                    },
-                    'Inconsolata': {
-                        wght: [300, 400, 500, 600, 700, 800],
-                    },
+                    }
                 },
             },
         ],

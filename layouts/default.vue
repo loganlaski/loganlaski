@@ -1,5 +1,5 @@
 <template>
-    <div id="layout">
+    <div class="layout">
 		<slot />
     </div>
 </template>
@@ -7,6 +7,11 @@
 <style>
 * {
 	font-family: 'Inter', sans-serif;
+	font-size: 1rem;
+	line-height: 120%;
+}
+h1, p {
+    pointer-events: none;
 }
 html {
 	background-color: #f8f4f0;

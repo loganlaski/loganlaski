@@ -1,6 +1,8 @@
 <template>
-    <div id="page">
+    <div id="page" class="p-5">
         <Main />
+        <Projects />
+        <Contact />
     </div>
 </template>
 
@@ -10,6 +12,5 @@ useSeoMeta({
   ogTitle: 'Logan Laski',
   description: 'Creative technologist based in Madison, WI.',
   ogDescription: 'Creative technologist based in Madison, WI.',
-//   ogImage: 'https://example.com/image.png',
 })
 </script>
