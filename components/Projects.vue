@@ -1,5 +1,5 @@
 <template>
-    <div class="component my-4">
+    <div class="component mt-3">
         <h1>
             Currently working on:
         </h1>

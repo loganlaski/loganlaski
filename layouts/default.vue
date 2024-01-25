@@ -17,7 +17,7 @@ html {
 	background-color: #f8f4f0;
 }
 .dark {
-    background-color: #000408;
+    background-color: #101010;
     color: #f8f4f0;
 }
 
@@ -39,7 +39,7 @@ body::-webkit-scrollbar {
 	z-index: 0;
 }
 body::-webkit-scrollbar-track {
-	background-color: #010101;
+	background-color: #101010;
 }
 body::-webkit-scrollbar-track:hover {
 	cursor: pointer !important;

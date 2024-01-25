@@ -1,11 +1,11 @@
 <template>
-    <div class="component">
+    <div class="component mt-2">
         <h1>
             Logan Laski
         </h1>
 
         <h1>
-            Creative technologist based in Madison, WI.
+            Creative technologist from Madison, WI.
         </h1>
 
         <h1>
