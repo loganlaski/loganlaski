@@ -4,7 +4,7 @@
       <div class="h-full">
         <div id="page" class="p-4">
           <Main />
-          <Projects />
+          <!-- <Projects /> -->
           <Contact />
         </div>
       </div>
