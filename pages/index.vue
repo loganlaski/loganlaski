@@ -2,10 +2,18 @@
   <div class="relative isolate overflow-hidden lg:overflow-visible">
     <div class="mx-auto">
       <div class="h-full">
-        <div id="page" class="p-4">
+        <div id="page" class="py-4 px-6">
           <Main />
-          <!-- <Projects /> -->
+
+          <div class="my-3">
+            <NuxtLink to="/projects">View recent projects</NuxtLink>
+          </div>
+
           <Contact />
+
+
+          <ToggleList />
+
         </div>
       </div>
     </div>
