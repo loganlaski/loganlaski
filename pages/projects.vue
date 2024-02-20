@@ -12,6 +12,11 @@
 </template>
 
 <script setup lang="ts">
+// addRouteMiddleware()
+definePageMeta({
+    middleware: ['demo'],
+})
+
 useSeoMeta({
   title: 'Logan Laski — projects',
   ogTitle: 'Logan Laski — projects',

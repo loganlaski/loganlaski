@@ -7,8 +7,8 @@
 <style>
 * {
 	font-family: 'Inter', sans-serif;
-	font-size: 1.1rem;
-	line-height: 120%;
+	font-size: 1rem;
+	line-height: 115%;
 }
 h1, p {
 	pointer-events: none;

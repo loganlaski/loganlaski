@@ -1,6 +1,6 @@
 <template>
-    <div class="component">
-        <ul class="block mt-3">
+    <div class="component mt-3">
+        <ul class="block">
             <li v-for="link in contactLinks">
                 <a :href="link.href" target="_blank" class="hover:opacity-75">
                     {{ link.item }}

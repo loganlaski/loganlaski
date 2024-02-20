@@ -6,13 +6,15 @@
           <Main />
 
           <div class="my-3">
-            <NuxtLink to="/projects">View recent projects</NuxtLink>
+            <NuxtLink to="/templates">Notion templates</NuxtLink>
           </div>
+
+          <!-- <Projects /> -->
 
           <Contact />
 
 
-          <ToggleList />
+          <!-- <ToggleList /> -->
 
         </div>
       </div>

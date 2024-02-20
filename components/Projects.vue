@@ -5,21 +5,20 @@
         </h1>
 
         <ul class="block">
-            <li v-for="link in projectLinks" class="project-item bg-teal-900 my-4 p-3 flex justify-between max-w-xl">
-                <!-- <a :href="link.href" target="_blank" class="hover:opacity-75">
+            <li v-for="link in projectLinks" class="project-item flex justify-between max-w-xl">
+                <a :href="link.href" target="_blank" class="hover:opacity-75">
                     {{ link.item }}
-                </a> -->
-                <NuxtLink to="/project" class="hover:opacity-75">
+                </a>
+                
+                <!-- <NuxtLink to="/project" class="hover:opacity-75">
                     {{ link.item }}
-                </NuxtLink>
+                </NuxtLink> -->
 
                 <!-- <p>
                     {{ link.desc }}
                 </p> -->
 
-                <div class="project-image h-56 w-72 bg-green-200">
-    
-                </div>
+                <!-- <div class="hidden project-image h-56 w-72 bg-green-200"></div> -->
             </li>
 
         </ul>
@@ -36,19 +35,19 @@ const projectLinks = [
     },
     {
         id: 1,
-        item: 'OrderBlock',
+        item: 'orderblock-app',
         // description: '',
         href: 'https://orderblock.app',
     },
     {
         id: 2,
-        item: 'Free days Studio',
+        item: 'freedays-studio',
         // description: '',
         href: 'https://freedays.studio',
     },
     {
         id: 3,
-        item: 'Glassleaf Golf',
+        item: 'glassleaf-app',
         // description: '',
         href: 'https://glassleaf.app',
     },
