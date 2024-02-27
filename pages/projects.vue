@@ -13,13 +13,13 @@
 
 <script setup lang="ts">
 // addRouteMiddleware()
-definePageMeta({
-    middleware: ['demo'],
-})
+// definePageMeta({
+//     middleware: ['demo'],
+// })
 
 useSeoMeta({
-  title: 'Logan Laski — projects',
-  ogTitle: 'Logan Laski — projects',
+  title: 'Work — Logan Laski',
+  ogTitle: 'Work — Logan Laski',
   description: 'Modern web design and application development.',
   ogDescription: 'Modern web design and application development.',
 })

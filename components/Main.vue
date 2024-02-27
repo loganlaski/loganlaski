@@ -5,11 +5,11 @@
         </h1>
 
         <h1>
-            Creative technologist from Madison, WI.
+            Creative technologist living in Madison, WI.
         </h1>
 
         <h1>
-            Focused on building modern digital products.
+            I focus on building modern digital products.
         </h1>
     </div>
 </template>

@@ -1,8 +1,8 @@
 <template>
     <UAccordion
-        color="gray"
-        variant="solid"
-        class="max-w-md py-12"
+        color="white"
+        variant="outline"
+        class="max-w-xs py-12 text-zinc-200"
         size="md"
         :items="[
             { 
