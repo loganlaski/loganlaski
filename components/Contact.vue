@@ -15,7 +15,7 @@ const contactLinks = [
     {
         id: 0,
         item: 'Email',
-        href: 'mailto:loganrlaski@gmail.com',
+        href: 'mailto:logan.laski@gmail.com',
     },
     {
         id: 1,

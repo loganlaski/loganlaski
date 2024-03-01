@@ -1,10 +1,19 @@
 <template>
     <div class="component mt-3">
-        <h1>
+        <!-- <h1>
             Currently working on:
+        </h1> -->
+
+        <h1>
+            Explore recent work
         </h1>
 
-        <ul class="block">
+        <h1>
+            View current services
+        </h1>
+
+
+        <ul class="hidden block">
             <li v-for="link in projectLinks.slice(0, 4)" class="project-item flex justify-between">
                 <a :href="link.href" target="_blank" class="hover:opacity-75">
                     {{ link.item }}
