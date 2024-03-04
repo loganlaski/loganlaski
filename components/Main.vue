@@ -5,11 +5,11 @@
         </h1>
 
         <h1>
-            Creative technologist living in Madison, WI.
+            I'm a creative technologist living in Madison, WI.
         </h1>
 
-        <h1 class="max-w-sm">
-            I work on modern websites and applications that help individuals and businesses solve problems.
+        <h1 class="max-w-md mt-2">
+            I design and build custom websites, modern web applications, and digital products that stand out.
         </h1>
     </div>
 </template>

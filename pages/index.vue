@@ -5,10 +5,8 @@
         <div id="page" class="py-4 px-6">
           <Main />
 
-          <NavLinks />
-
           <!-- <Projects /> -->
-          <Contact />
+          <Contact /> 
 
           <!-- <ToggleList /> -->
 
