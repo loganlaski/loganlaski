@@ -35,7 +35,7 @@ const contactLinks = [
     {
         id: 4,
         item: 'Read.cv',
-        href: 'https://read.cv/lrl.online',
+        href: 'https://read.cv/loganlaski',
     },
 ]
 </script>
