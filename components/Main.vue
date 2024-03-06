@@ -5,7 +5,7 @@
         </h1>
 
         <h1>
-            I'm a creative technologist living in Madison, WI.
+            I'm a creative technologist from Madison, WI.
         </h1>
 
         <h1 class="max-w-md mt-2">
