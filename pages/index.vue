@@ -4,8 +4,7 @@
       <div class="h-full">
         <div id="page" class="py-4 pl-6 pr-2">
           <Main />
-
-          <!-- <Projects /> -->
+          <Projects />
           <Contact /> 
 
           <!-- <ToggleList /> -->

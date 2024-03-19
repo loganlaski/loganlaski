@@ -4,7 +4,8 @@
       <div class="h-full">
         <div id="page" class="py-4 px-6">
           <Main />
-          <Projects />
+
+          <Work />
         </div>
       </div>
     </div>

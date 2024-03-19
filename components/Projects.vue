@@ -1,10 +1,13 @@
 <template>
     <div class="component mt-3">
-        <h1>
-            Recent work:
-        </h1>
+        <!-- <h1> -->
+            <!-- Recent work: -->
+        <!-- </h1> -->
+        <NuxtLink to="/projects" class="hover:opacity-75">
+            View recent work
+        </NuxtLink>
 
-        <ul class="block">
+        <ul class="hidden block">
             <li v-for="link in projectLinks.slice(0, 4)" class="project-item flex justify-between">
                 <a :href="link.href" target="_blank" class="hover:opacity-75">
                     {{ link.item }}
